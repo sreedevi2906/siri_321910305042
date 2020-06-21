@@ -1,0 +1,5 @@
+n1=int(input())
+n2=int(input())
+if n1+n2>5: print("their sum is greater than 5")
+else if n1+n2<5:print("their sum is lessthan 5")
+else: print("they are equal")
